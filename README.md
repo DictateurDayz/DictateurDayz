@@ -2,6 +2,6 @@
 
 
 
-- ✨ I’m currently working on Peaks Studio
-- 💻 I’m currently learning Lua, JS and TailwindCSS
+- ✨ I’m currently working on CoreV, and DS Store
+- 💻 I’m currently learning Lua, JS
 
