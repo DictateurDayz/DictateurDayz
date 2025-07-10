@@ -2,6 +2,6 @@
 
 
 
-- ✨ I’m currently working on CoreV, and DS Store
-- 💻 I’m currently learning Lua, JS
+- ✨ I’m currently working on Tryade Studio, and DS Store
+- 💻 I’m currently learning JS, VueJS, TailwindCss
 
